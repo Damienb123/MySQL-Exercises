@@ -22,7 +22,7 @@ If you don't already have MySQL installed, you can [download it here](https://de
 3. **Create a Database**:
 After logging into MySQL, create a new database to work with:
 ```sql
-CREATE DATABASE sql_exercises;
+CREATE DATABASE mysql_exercises;
 USE mysql_exercises;
 ```
 4. Run SQL Scripts:
