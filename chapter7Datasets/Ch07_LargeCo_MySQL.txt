@@ -1,4 +1,3 @@
-/* Database Systems, Coronel/Morris */
 /* Type of SQL : MySQL  */
 /* Be sure to name the schema LargeCo  */
 
@@ -302,8 +301,8 @@ INSERT INTO LGPRODUCT VALUES ('3933-NSU', 'Latex, Recycled (Remanufactured), Int
 INSERT INTO LGPRODUCT VALUES ('6894-JQV', 'Latex, Recycled (Consolidated), Interior (MPI Gloss Level 1)', 'Interior', 'Water', 'Top Coat', 48.59, 35, 5, 27);
 INSERT INTO LGPRODUCT VALUES ('4879-AMS', 'Latex, Recycled (Remanufactured), Interior (MPI Gloss Level 1)', 'Interior', 'Water', 'Top Coat', 41.99, 107, 20, 31);
 INSERT INTO LGPRODUCT VALUES ('7316-MQD', 'Aluminum Paint', 'Exterior', 'Solvent', 'Top Coat', 12.99, 36, 30, 33);
-INSERT INTO LGPRODUCT VALUES ('5046-TTC', 'Aluminum Paint, Heat Resistant (Up to 427°C - 800°F)', 'Exterior', 'Solvent', 'Top Coat', 18.99, 129, 30, 35);
-INSERT INTO LGPRODUCT VALUES ('2866-RAM', 'Aluminum Paint, Heat Resistant (Up to 427°C - 800°F)', 'Interior', 'Solvent', 'Top Coat', 18.99, 19, 10, 30);
+INSERT INTO LGPRODUCT VALUES ('5046-TTC', 'Aluminum Paint, Heat Resistant (Up to 427Â°C - 800Â°F)', 'Exterior', 'Solvent', 'Top Coat', 18.99, 129, 30, 35);
+INSERT INTO LGPRODUCT VALUES ('2866-RAM', 'Aluminum Paint, Heat Resistant (Up to 427Â°C - 800Â°F)', 'Interior', 'Solvent', 'Top Coat', 18.99, 19, 10, 30);
 INSERT INTO LGPRODUCT VALUES ('6596-HOO', 'Primer, Alkali Resistant, Water Based', 'Exterior', 'Water', 'Primer', 9.99, 93, 5, 35);
 INSERT INTO LGPRODUCT VALUES ('4812-CMJ', 'Primer, Alkali Resistant, Water Based', 'Interior', 'Water', 'Primer', 9.99, 128, 10, 27);
 INSERT INTO LGPRODUCT VALUES ('6350-UPP', 'Block Filler, Latex, Interior/Exterior', 'Exterior', 'Water', 'Filler', 12.49, 119, 5, 25);
@@ -325,9 +324,9 @@ INSERT INTO LGPRODUCT VALUES ('3079-DEG', 'Primer, Zinc Rich, Inorganic', 'Exter
 INSERT INTO LGPRODUCT VALUES ('7538-ITC', 'Primer, Zinc Rich, Inorganic', 'Interior', 'Solvent', 'Primer', 8.99, 95, 25, 33);
 INSERT INTO LGPRODUCT VALUES ('8162-KJI', 'Primer, Zinc Rich, Epoxy', 'Exterior', 'Solvent', 'Primer', 9.49, 73, 10, 31);
 INSERT INTO LGPRODUCT VALUES ('9786-DGO', 'Primer, Zinc Rich, Epoxy', 'Interior', 'Solvent', 'Primer', 9.99, 85, 40, 25);
-INSERT INTO LGPRODUCT VALUES ('1433-MMY', 'Heat Resistant Coating, (Up to 205°C/402°F), MPI Gloss Level 5-6 ', 'Exterior', 'Solvent', 'Top Coat', 23.99, 129, 10, 27);
-INSERT INTO LGPRODUCT VALUES ('2766-EYO', 'Aluminum Paint, High Heat (up to 590° C/1100° F)', 'Exterior', 'Solvent', 'Top Coat', 32.99, 20, 10, 33);
-INSERT INTO LGPRODUCT VALUES ('9292-RQZ', 'Aluminum Paint, High Heat (up to 590° C/1100° F)', 'Interior', 'Solvent', 'Top Coat', 32.99, 24, 10, 28);
+INSERT INTO LGPRODUCT VALUES ('1433-MMY', 'Heat Resistant Coating, (Up to 205Â°C/402Â°F), MPI Gloss Level 5-6 ', 'Exterior', 'Solvent', 'Top Coat', 23.99, 129, 10, 27);
+INSERT INTO LGPRODUCT VALUES ('2766-EYO', 'Aluminum Paint, High Heat (up to 590Â° C/1100Â° F)', 'Exterior', 'Solvent', 'Top Coat', 32.99, 20, 10, 33);
+INSERT INTO LGPRODUCT VALUES ('9292-RQZ', 'Aluminum Paint, High Heat (up to 590Â° C/1100Â° F)', 'Interior', 'Solvent', 'Top Coat', 32.99, 24, 10, 28);
 INSERT INTO LGPRODUCT VALUES ('3528-GBV', 'Primer, Metal, Surface Tolerant', 'Exterior', 'Solvent', 'Primer', 7.49, 34, 35, 31);
 INSERT INTO LGPRODUCT VALUES ('6041-PBS', 'Primer, Metal, Surface Tolerant', 'Interior', 'Solvent', 'Primer', 7.49, 53, 30, 25);
 INSERT INTO LGPRODUCT VALUES ('3561-LYU', 'Lacquer, Sanding Sealer, White', 'Exterior', 'Solvent', 'Sealer', 3.29, 70, 40, 25);
@@ -379,7 +378,7 @@ INSERT INTO LGPRODUCT VALUES ('6033-YFY', 'Primer, Stain Blocking, Water Based',
 INSERT INTO LGPRODUCT VALUES ('5250-JDL', 'Primer, Zinc Rich, Moisture Cured', 'Exterior', 'Solvent', 'Primer', 13.99, 96, 40, 27);
 INSERT INTO LGPRODUCT VALUES ('5653-RTU', 'Aluminum Paint', 'Interior', 'Solvent', 'Top Coat', 12.99, 87, 15, 23);
 INSERT INTO LGPRODUCT VALUES ('6451-KGJ', 'Primer, Latex for Exterior Wood', 'Exterior', 'Water', 'Primer', 6.99, 117, 30, 35);
-INSERT INTO LGPRODUCT VALUES ('7500-ROG', 'Heat Resistant Coating, (Up to 205°C/402°F), MPI Gloss Level 5-6 ', 'Interior', 'Solvent', 'Top Coat', 23.99, 53, 5, 30);
+INSERT INTO LGPRODUCT VALUES ('7500-ROG', 'Heat Resistant Coating, (Up to 205Â°C/402Â°F), MPI Gloss Level 5-6 ', 'Interior', 'Solvent', 'Top Coat', 23.99, 53, 5, 30);
 INSERT INTO LGPRODUCT VALUES ('2134-QFE', 'Varnish, with UV Inhibitor, Exterior, Semi-Gloss (MPI Gloss Level 5)', 'Exterior', 'Solvent', 'Top Coat', 15.89, 34, 25, 23);
 INSERT INTO LGPRODUCT VALUES ('3716-IWN', 'Epoxy, Quick Set, Mason', 'Exterior', 'Solvent', 'Sealer', 14.99, 75, 20, 28);
 INSERT INTO LGPRODUCT VALUES ('1964-OUT', 'Fire Resistant Top Coat, for Interior Wood', 'Interior', 'Solvent', 'Top Coat', 78.49, 120, 10, 30);
