@@ -1,4 +1,3 @@
-/* Introduction to SQL 					*/
 /* Script file for MySQL DBMS			*/
 /* This script file creates the following tables:	*/
 /* VENDOR, PRODUCT, CUSTOMER, INVOICE, LINE		*/
